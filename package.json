@@ -1,0 +1,11 @@
+{
+  "name": "deque-linear-import",
+  "version": "1.0.0",
+  "description": "Transforms Deque issues export into importable csv for Linear",
+  "main": "index.js",
+  "author": "b3sketchy",
+  "license": "ISC",
+  "dependencies": {
+    "csv": "^6.4.1"
+  }
+}
